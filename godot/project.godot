@@ -1,0 +1,11 @@
+; Test project for the openrouter addon (CI runs tests/_runner/run_tests.gd).
+config_version=5
+
+[application]
+
+config/name="OpenRouter Addon Tests"
+config/version="0.1.0"
+
+[debug]
+
+gdscript/warnings/untyped_declaration=2

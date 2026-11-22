@@ -1,0 +1,9 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["greeting", "mood"],
+  "properties": {
+    "greeting": {"type": "string", "maxLength": 80},
+    "mood": {"type": "string", "enum": ["warm", "wary", "cold"]}
+  }
+}

@@ -1,0 +1,4 @@
+{"sequence": [
+  {"content": "```json\n{\"greeting\": \"Hi\", \"mood\": \"ecstatic\"}\n```"},
+  {"content": {"greeting": "Hi", "mood": "warm"}}
+]}
